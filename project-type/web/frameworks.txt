@@ -1,0 +1,22 @@
+####
+VITE
+####
+https://vite.dev/guide/
+
+# commands #
+npm create vite@latest
+yarn create vite
+pnpm create vite
+bun create vite
+
+
+####
+NEXT JS
+####
+https://nextjs.org/docs/app/getting-started/installation
+
+# commands #
+npx create-next-app@latest
+
+# cli #
+https://nextjs.org/docs/app/api-reference/cli/create-next-app

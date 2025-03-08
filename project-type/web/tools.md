@@ -1,10 +1,8 @@
-####
-TAILWIND CSS
-####
+# Tools
+
+## TAILWIND CSS
 https://tailwindcss.com/docs/installation/using-vite
 
 
-####
-DRIZZLE
-####
+## DRIZZLE
 https://orm.drizzle.team/docs/get-started

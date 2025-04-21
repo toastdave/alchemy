@@ -18,10 +18,14 @@ https://react-hook-form.com/get-started
 
 ## PRETTIER
 https://prettier.io/docs/install
-pnpm add --save-dev --save-exact prettier
 
+```bash
+pnpm add --save-dev --save-exact prettier
+```
 
 ## ZOD
 https://zod.dev/?id=installation
-pnpm add zod
 
+```bash
+pnpm add zod
+```

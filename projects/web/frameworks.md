@@ -4,10 +4,12 @@
 https://vite.dev/guide/
 
 ### Commands
+```bash
 npm create vite@latest
 yarn create vite
 pnpm create vite
 bun create vite
+```
 
 
 ## NEXT JS
